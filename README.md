@@ -1,28 +1,30 @@
-# بوی کاهگل، آواز پرنده
+# The Scent of Adobe, the Bird's Song
 
-### گزیدهٔ شعرهای محمدابراهیم جعفری | متن فارسی و ترجمهٔ انگلیسی
+### Selected poems by Mohammad Ebrahim Jafari | Persian text and English translations
 
-این مخزن به مجموعه‌شعر **«بوی کاهگل، آواز پرنده»** اثر **محمدابراهیم جعفری** اختصاص دارد و متن فارسی شعرها را در کنار ترجمهٔ انگلیسی و یادداشت‌های توضیحی در دسترس خوانندگان قرار می‌دهد. هدف این مجموعه، فراهم‌کردن بستری خوانا و منظم برای مطالعهٔ شعرها، مقایسهٔ متن و ترجمه و آشنایی مخاطبان غیرفارسی‌زبان با جهان شعری جعفری است.
+[فارسی](README-fa.md)
 
-در حال حاضر، مخزن شامل **۲۰۹ فایل شماره‌گذاری‌شده** در قالب Markdown است. برای آغاز مطالعه می‌توانید [نخستین شعر](Book/001.md) را بخوانید یا به [پوشهٔ شعرها](Book/) بروید.
+This repository is dedicated to **The Scent of Adobe, the Bird's Song** (بوی کاهگل، آواز پرنده), a collection of selected poems by **Mohammad Ebrahim Jafari**. It presents the Persian poems alongside English translations and explanatory notes, offering an organized way to read the collection, compare the originals with their translations, and introduce English-speaking readers to Jafari's poetry.
 
-## دربارهٔ کتاب
+The repository currently contains **209 numbered Markdown files**. Start with the [first poem](Book/001.md) or browse the [poetry folder](Book/).
 
-«بوی کاهگل، آواز پرنده» گزیده‌ای از شعرهای محمدابراهیم جعفری است؛ شاعری که نقاشی و آموزش هنر نیز بخش مهمی از زندگی او را شکل می‌داد. خبر رونمایی از این کتاب در فروردین ۱۳۹۸، هم‌زمان با نخستین سالگرد درگذشت او، منتشر شد. [گزارش رونمایی کتاب در هنرآنلاین](https://www.honaronline.ir/بخش-فرهنگ-ادبیات-8/133056-رونمایی-از-کتاب-گزیده-اشعار-زندگی-نامه-محمدابراهیم-جعفری)
+## About the book
 
-در شعرهای گردآمده در این مخزن، تصویرهای طبیعت، پرنده، باران و خاک با یاد کودکی، عشق، دلتنگی و گذر زمان همراه می‌شوند. پیوند رنگ، صدا و کلمه را می‌توان از همان شعر آغازین دید؛ جایی که دیوار نقاشی‌شده زیر باران پاک می‌شود و بوی کاهگل و آواز پرنده باقی می‌ماند.
+*The Scent of Adobe, the Bird's Song* brings together selected poems by Mohammad Ebrahim Jafari, whose life also centered on painting and art education. News of the book's launch appeared in Farvardin 1398 (March–April 2019), around the first anniversary of his death. [Book launch report from Honaronline (Persian)](https://www.honaronline.ir/بخش-فرهنگ-ادبیات-8/133056-رونمایی-از-کتاب-گزیده-اشعار-زندگی-نامه-محمدابراهیم-جعفری)
 
-## دربارهٔ شاعر
+Throughout these poems, images of nature, birds, rain, and earth intertwine with childhood memories, love, longing, and the passage of time. The connection between color, sound, and words is present from the opening poem: rain washes a painted wall clean, leaving the scent of mud-and-straw plaster and a bird's song.
 
-**محمدابراهیم جعفری (۱۳۱۹–۱۳۹۷)**، شاعر، نقاش نوگرا و مدرس هنر ایرانی، در بروجرد به دنیا آمد. او دانش‌آموختهٔ دانشکدهٔ هنرهای زیبای دانشگاه تهران و عضو هیئت علمی دانشگاه هنر بود. جعفری در کنار تدریس و حضور در نمایشگاه‌های داخلی و خارجی، از جوانی به سرودن شعر پرداخت و در هر دو عرصهٔ شعر و نقاشی فعالیت داشت. او در **۱۸ فروردین ۱۳۹۷** درگذشت. [زندگی‌نامهٔ کوتاه در هنرآنلاین](https://www.honaronline.ir/بخش-تجسمی-4/116516-محمدابراهیم-جعفری-نقاش-پیشکسوت-درگذشت)
+## About the poet
 
-## ترجمهٔ انگلیسی و نقش Grok Bot
+**Mohammad Ebrahim Jafari (1940–2018)** was an Iranian poet, modernist painter, and art educator born in Borujerd. He graduated from the Faculty of Fine Arts at the University of Tehran and served on the faculty of the University of Art. Alongside teaching and exhibiting his work in Iran and abroad, he wrote poetry from a young age and remained active in both poetry and painting. He died on **7 April 2018**. [Short biography from Honaronline (Persian)](https://www.honaronline.ir/بخش-تجسمی-4/116516-محمدابراهیم-جعفری-نقاش-پیشکسوت-درگذشت)
 
-**ترجمهٔ انگلیسی شعرهای این مخزن با کمک ربات گروک (Grok Bot) انجام شده است.** این ترجمه‌ها برای کمک به فهم متن فارسی و نزدیک‌کردن مخاطب انگلیسی‌زبان به تصویرها و فضای شعر ارائه شده‌اند.
+## English translations and Grok Bot
 
-در برخی فایل‌ها، در بخش یادداشت‌ها با عنوان `Notes`، توضیحاتی دربارهٔ واژه‌ها، تعبیرها، نام‌ها و زمینه‌های فرهنگی آمده است. ترجمه و این یادداشت‌ها می‌توانند موضوع بازبینی و اصلاح قرار گیرند؛ به‌ویژه در مواردی که چندمعنایی، موسیقی زبان یا ارجاع‌های فرهنگی بر برداشت از شعر تأثیر می‌گذارند. برای بررسی پیشنهادهای ترجمه، متن فارسیِ درج‌شده در هر فایل مبنای مقایسه است.
+**The English translations in this repository were produced with the help of Grok Bot.** They aim to support understanding of the Persian originals and convey the poems' imagery and atmosphere to English-speaking readers.
 
-## ساختار مخزن
+Some files include a `Notes` section explaining words, expressions, names, and cultural context. Both the translations and the notes are open to review and correction, especially where ambiguity, the musical qualities of the language, or cultural references affect interpretation. The Persian text in each file is the reference for evaluating proposed translation changes.
+
+## Repository structure
 
 ```text
 .
@@ -32,38 +34,39 @@
 │   ├── ...
 │   └── 209.md
 ├── LICENSE
-└── README.md
+├── README.md
+└── README-fa.md
 ```
 
-| مسیر | محتوا |
+| Path | Contents |
 | --- | --- |
-| [Book/](Book/) | ۲۰۹ فایل شعر، با شماره‌های سه‌رقمی از `001` تا `209` |
-| [README.md](README.md) | معرفی کتاب، شاعر و راهنمای استفاده از مخزن |
-| [LICENSE](LICENSE) | متن مجوز ثبت‌شده برای مخزن |
+| [Book/](Book/) | 209 poem files, numbered with three digits from `001` to `209` |
+| [README.md](README.md) | English introduction to the book, poet, and repository |
+| [README-fa.md](README-fa.md) | Persian introduction to the book, poet, and repository |
+| [LICENSE](LICENSE) | The license recorded for this repository |
 
-فایل‌های شعر، متن فارسی را در ابتدا و ترجمه را در بخش `English` ارائه می‌کنند. تقدیم‌نامه، تاریخ یا محل سرایش نیز در صورت وجود در فایل آمده است. برخی فایل‌ها یادداشت‌های توضیحی ترجمه را در بخش `Notes` دارند.
+Each poem file begins with the Persian text, followed by a translation under `English`. Dedications, dates, and places of composition are included where available. Some files also contain explanatory translation notes under `Notes`.
 
-## راهنمای مطالعه
+## Reading the collection
 
-برای خواندن مجموعه به نصب نرم‌افزار یا اجرای کد نیازی نیست؛ فایل‌ها مستقیماً در GitHub قابل مطالعه‌اند. از [پوشهٔ Book](Book/) وارد شوید و فایل‌ها را به ترتیب شماره باز کنید. همچنین می‌توانید نسخه‌ای از مخزن را دریافت و با هر ویرایشگر یا نمایشگر Markdown مطالعه کنید.
+No software installation or code execution is required. You can read the files directly on GitHub: open the [Book folder](Book/) and follow the numbered files in order. You can also download a copy of the repository and read it with any Markdown editor or viewer.
 
-چند نقطهٔ شروع برای آشنایی با مجموعه:
+A few starting points, with opening lines from the English translations:
 
-| شعر | آغاز متن |
+| Poem | Opening lines |
 | --- | --- |
-| [۰۰۱](Book/001.md) | «پرنده‌ای / پشتِ دیوارِ کاهگلی / می‌خواند.» |
-| [۰۵۰](Book/050.md) | «گفتم / تو را دوست دارم / صدای مرا نقاشی کن» |
-| [۱۵۰](Book/150.md) | «شوقِ ستاره‌ای که...» |
-| [۲۰۹](Book/209.md) | «خاطره‌ها مثلِ گل و گیاه / در فصل‌های خود می‌رویند...» |
+| [001](Book/001.md) | “A bird / behind the mud-and-straw wall / was singing.” |
+| [050](Book/050.md) | “I said / I love you, / paint my voice.” |
+| [150](Book/150.md) | “The eagerness of a star that...” |
+| [209](Book/209.md) | “Memories, like flowers and plants, / sprout in their own seasons...” |
 
-## مشارکت و پیشنهاد اصلاح
+## Contributing corrections
 
-پیشنهادهای مستند برای اصلاح خطاهای تایپی، بهبود ترجمهٔ انگلیسی و دقیق‌ترکردن یادداشت‌ها می‌توانند به کیفیت مجموعه کمک کنند. برای مشارکت، یک **Issue** باز کنید یا تغییر پیشنهادی را در قالب **Pull Request** بفرستید.
+Suggestions supported by evidence can help correct typos, improve the English translations, and refine the notes. Open an **Issue** or submit a **Pull Request** with your proposed changes.
 
-لطفاً در هر پیشنهاد:
+Please:
 
-- شمارهٔ فایل و عبارت موردنظر را مشخص کنید.
-- متن پیشنهادی و دلیل تغییر را بنویسید.
-- برای اصلاح متن فارسی، در صورت امکان، مشخصات نسخهٔ چاپی و شمارهٔ صفحه را ذکر کنید.
-- ترتیب سطرها، بندها، تقدیم‌نامه‌ها و تاریخ‌ها را حفظ کنید و تغییرات ترجمه را از اصلاح متن فارسی روشن و مشخص نگه دارید.
-
+- Identify the file number and the passage concerned.
+- Include your proposed wording and explain the reason for the change.
+- When correcting the Persian text, provide the print edition details and page number where possible.
+- Preserve line breaks, stanzas, dedications, and dates, and clearly distinguish translation changes from corrections to the Persian text.
